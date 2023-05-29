@@ -1,2 +1,5 @@
 git status - ver o que foi alteradp
 git add -A adicionar tudo 
+git commit -am ""
+git push
+
